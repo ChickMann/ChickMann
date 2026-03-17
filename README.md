@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 I am a **3rd-year Software Engineering student** at FPT University and a dedicated **Unity Game Developer**. 
 
 * **Passion:** Driven by a deep love for game mechanics and emerging technologies.
@@ -15,16 +15,16 @@ I am a **3rd-year Software Engineering student** at FPT University and a dedicat
 
 ---
 
-### 🔧 Skills & Technologies
+## 🔧 Skills & Technologies
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-#### 🎮 Game Development & Tools
+### 🎮 Game Development & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=jetbrains-rider&logoColor=white" />
@@ -33,7 +33,7 @@ I am a **3rd-year Software Engineering student** at FPT University and a dedicat
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChickMann&show_icons=true&theme=tokyonight" alt="ChickMan's Stats" />
 </p>
