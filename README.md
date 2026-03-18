@@ -39,7 +39,7 @@ I am a **3rd-year Software Engineering student** at FPT University and a dedicat
 
 ---
 
-## 📊 GitHub Stats
+### 🔥 Coding Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChickMann&show_icons=true&theme=tokyonight" alt="ChickMan's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChickMann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
