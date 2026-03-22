@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Huynh Cao Phuoc (ChickMan)
+# 👋 Hi there, I'm Phuoc Huynh (ChickMan)
 <p align="left">
   <img src="https://img.shields.io/badge/FPT%20University-Software%20Engineering-orange?style=flat-square&logo=fpt" />
   <img src="https://img.shields.io/badge/Location-Vietnam-blue?style=flat-square&logo=googlemaps" />
